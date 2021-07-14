@@ -1,6 +1,7 @@
-### Hi there 👋
+[![](https://github.com/AvinashSingh786/AvinashSingh786/blob/main/GitHubProfileReadme.gif?raw=true)](https://avinashsingh786.github.io/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/AvinashSingh786/AvinashSingh786)](https://badges.pufler.dev)
+You are [![Visits Badge](https://badges.pufler.dev/visits/AvinashSingh786/AvinashSingh786)](https://badges.pufler.dev)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -14,25 +15,22 @@
 
 ### Technologies
 
-
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
-
-
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🧬%20Hyperpeform)](https://hyperperform.github.io/)
  
 
 ### Cybersecurity Projects
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-📦%20RegAcquire)](https://avinashsingh786.github.io/RegSmart#RegAcquire)
+[![](https://img.shields.io/badge/-📦%20RegSmart)](https://avinashsingh786.github.io/RegSmart)
+[![](https://img.shields.io/badge/-🔍%20Fraud%20Analysis)](https://github.com/AvinashSingh786/Fraud-Analysis)
  
  ### Trophies
  [![trophy](https://github-profile-trophy.vercel.app/?username=AvinashSingh786&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
