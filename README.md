@@ -1,6 +1,6 @@
 [![](https://github.com/AvinashSingh786/AvinashSingh786/blob/main/GitHubProfileReadme.gif?raw=true)](https://avinashsingh786.github.io/)
 
-You are [![Visitor Badge](https://badges.pufler.dev/visits/AvinashSingh786/AvinashSingh786)](https://badges.pufler.dev)
+Number of Visits: [![Visitor Badge](https://badges.pufler.dev/visits/AvinashSingh786/AvinashSingh786)](https://badges.pufler.dev)
 
 ### Languages
 
@@ -37,7 +37,7 @@ You are [![Visitor Badge](https://badges.pufler.dev/visits/AvinashSingh786/Avina
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20Hyperpeform)](https://hyperperform.github.io/)
+[![](https://img.shields.io/badge/-🧬%20Hyperpeform-000)](https://hyperperform.github.io/)
  
 
 ### Cybersecurity Projects
