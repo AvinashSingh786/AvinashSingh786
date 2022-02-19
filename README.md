@@ -8,6 +8,7 @@ Number of Visits: [![Visitor Badge](https://badges.pufler.dev/visits/AvinashSing
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.JS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -52,10 +53,10 @@ Number of Visits: [![Visitor Badge](https://badges.pufler.dev/visits/AvinashSing
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashSingh786)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashSingh786&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinashSingh786&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinashSingh786&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **AvinashSingh786/AvinashSingh786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
