@@ -50,8 +50,12 @@ Number of Visits: [![Visitor Badge](https://badges.pufler.dev/visits/AvinashSing
  [![trophy](https://github-profile-trophy.vercel.app/?username=AvinashSingh786&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashSingh786)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinashSingh786&count_private=true&show_icons=true)
 
 <!--
 **AvinashSingh786/AvinashSingh786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
